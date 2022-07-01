@@ -35,6 +35,9 @@ CHARLAS.push(new Capacitacion(7, "Mi Vocación", 2, 1100));
 CHARLAS.push(new Capacitacion(8, "Mujeres de vuelta a la profesión", 6, 1600));
 CHARLAS.push(new Capacitacion(9, "Mi Primer Estudio", 2, 1500));
 
+console.log(PROGRAMAS)
+console.log(CURSOS)
+console.log(CHARLAS)
 
 //Recorro los arrays para presentar las capacitaciones
 for (const PROGRAMA of PROGRAMAS) {
